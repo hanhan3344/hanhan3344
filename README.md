@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanhan3344
 - 👀 I’m interested in DeepLearning
-- 🌱 I’m currently learning YOLOV5
+- 🌱 I’m currently learning YOLOV5, PX4
 - 📫 How to reach me .915489043@qq.com
 
 <!---
