@@ -43,7 +43,7 @@ Currently, my work and research encompass:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanhan3344&layout=compact&theme=radical)
 
 <!-- Footer -->
-![Footer](https://github.com/hanhan3344/hanhan3344/blob/main/assets/footer.png)
+<!---![Footer](https://github.com/hanhan3344/hanhan3344/blob/main/assets/footer.png)
 
 <!---
 hanhan3344/hanhan3344 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
