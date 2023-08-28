@@ -1,48 +1,48 @@
-<!-- 顶部图像 -->
+<!-- Top Banner Image -->
 ![Header](https://github.com/hanhan3344/hanhan3344/blob/main/assets/header.png)
 
 # Hello, World! 🌍
 
-我是 **hanhan3344**，一名充满激情的数据挖掘工程师，热衷于探索时空大数据的奥秘。
+I'm **hanhan3344**, a passionate Data Mining Engineer with a keen interest in exploring the mysteries of spatio-temporal big data.
 
-## 📚 主修方向
+## 📚 Areas of Expertise
 
-🔍 数据挖掘 | 🌐 互联网搜索技术 | ⏳ 时空大数据深度学习 | 💾 海量数据管理
+🔍 Data Mining | 🌐 Internet Search Technologies | ⏳ Spatio-temporal Deep Learning | 💾 Massive Data Management
 
-## 💡 我的宗旨
+## 💡 My Motto
 
-"在数据的海洋中探索，从信息的星空中启迪。"
+"Dive into the ocean of data, seek inspiration from the constellation of information."
 
-## 🚀 研究 & 探索
+## 🚀 Research & Explorations
 
-我目前的工作和研究涵盖了：
+Currently, my work and research encompass:
 
-- **数据挖掘魔法**: 从混沌的数据中提取宝贵信息，探索隐藏的模式。
-- **时空穿梭**: 用深度学习探索时空大数据，让时间和空间不再是束缚。
-- **云端冒险**: 探索海量数据管理的奇妙世界，用技术驾驭数据潮流。
+- **Data Mining Magic**: Extracting valuable insights from chaotic data and uncovering hidden patterns.
+- **Temporal Travels**: Delving deep into spatio-temporal big data with deep learning, breaking the shackles of time and space.
+- **Adventures in the Cloud**: Navigating the vast world of massive data management, harnessing the tidal waves of data with technology.
 
-## 🛠 我的武器库
+## 🛠 My Arsenal
 
 - **Python** 🐍 | **TensorFlow** 🧠 | **Elasticsearch** 📊
 - **PyTorch** ⚙️ | **Hadoop** 🗄️ | **Spark** ⚡
 
-## 🌐 联系我
+## 🌐 Get in Touch
 
-📧 邮箱: [hans1r@outlook.com](mailto:hans1r@outlook.com)
+📧 Email: [hans1r@outlook.com](mailto:hans1r@outlook.com)
 🐦 Twitter: [@hanhan3344](https://twitter.com/hanhan3344)
 🔗 LinkedIn: [linkedin.com/in/hanhan3344](https://www.linkedin.com/in/hanhan3344/)
 
-## 🚀 最近的项目
+## 🚀 Recent Projects
 
-- **Project A**: 用神秘的算法挖掘数据的宝藏 📊 [Link](#)
-- **Project B**: 与时间共舞，预测未来趋势 ⏳ [Link](#)
+- **Project A**: Mining data treasures with arcane algorithms 📊 [Link](#)
+- **Project B**: Dancing with time, forecasting future trends ⏳ [Link](#)
 
-## 🎉 统计与成就
+## 🎉 Stats & Achievements
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanhan3344&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanhan3344&layout=compact&theme=radical)
 
-<!-- 页脚 -->
+<!-- Footer -->
 ![Footer](https://github.com/hanhan3344/hanhan3344/blob/main/assets/footer.png)
 
 <!---
